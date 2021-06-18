@@ -1,0 +1,14 @@
+.photoscontainer {
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.photoCard {
+    width: 150px;
+    margin: 8px;
+    height: 150px;
+    border-radius: 8px;
+    overflow: hidden;
+}

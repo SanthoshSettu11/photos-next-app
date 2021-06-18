@@ -1,0 +1,18 @@
+.albumcard {
+  width: 100%;
+  background-color: aliceblue;
+  border: 0.5px solid #e5e5e5;
+  margin: 8px 8px;
+  border-left: 5px solid aliceblue;
+  transition: all 0.5s ease-in-out;
+  height: 50px;
+  color: #333;
+  display: flex;
+  padding: 0px 8px;
+  align-items: center;
+  cursor: pointer;
+}
+
+.albumcard:hover {
+  border-left: 5px solid #0003
+}
